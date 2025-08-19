@@ -148,15 +148,8 @@ This project is released under the **MIT License** — see `LICENSE` (or add one
 
 ## Author
 
-Vijay Reddy — (update with your email / portfolio link)
+Vijay Reddy
 Repo: `https://github.com/vijayreddy004/ALCHEMY-CRAFT`
 
 ---
 
-If you want, I can:
-
-* Fill this README with exact run commands and port numbers if you paste the `package.json` files from `Frontend` and `Backend`.
-* Generate a `LICENSE` file (MIT/GPL) and badges (build / license / demo).
-* Add example screenshots and a small demo GIF (you can upload the images here and I’ll embed them).
-
-[1]: https://neal.fun/infinite-craft/ "Infinite Craft"
