@@ -1,0 +1,11 @@
+# Vite-related files
+node_modules/
+dist/
+*.local
+*.log
+.env
+*.env.local
+*.env.*.local
+.vscode/
+.idea/
+.DS_Store
